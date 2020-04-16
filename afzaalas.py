@@ -10,9 +10,9 @@ from mechanize import Browser
 
 reload(sys)
 sys.setdefaultencoding('utf8')
-br = mechanize.Browser()
+br = mechanize.Briowser()
 br.set_handle_robots(False)
-br.set_handle_refresh(mechanize._http.HTTPRefreshProcessor(),max_time=1)
+br.set_handle_refresh(mechanize._http.HTTPRefr9 eshProcessor(),max_time=1)
 br.addheaders = [('User-Agent', 'Opera/9.80 (Android; Opera Mini/32.0.2254/85. U; id) Presto/2.12.423 Version/12.16')]
 
 
@@ -56,10 +56,11 @@ logo = """ -----------------------------•◈•
 |__~~~\ •◈•-----█-------⑧-------█------•◈•
 |__~~~\ •◈•-----█-------⑥-------█------•◈•
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
-\033[1;96mInstagram \033[1;93m: \033[1;FlowRana
-\033[1;96mFacebook  \033[1;93m: \033[1; Aahilrna4072
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Therana/zero
+\033[1;96mAuthor  \033[1;93m: \033[1;92m King Afzaal
+\033[1;96mInstagram \033[1;93m: \033[1;Flowm.afzaal.7097
+
+\033[1;96mFacebook  \033[1;93m: \033[1; saffi.uddin.12
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Theafzaalsh101/
 \033[1;91m======================================="""
 
 def tik():
@@ -80,9 +81,9 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
-\033[1;96mInstagram \033[1;93m: \033[1;92mFlowRana
-\033[1;96mFacebook  \033[1;93m: \033[1;92m Aahilrana4072
+\033[1;96mAuthor  \033[1;93m: \033[1;92mKing Afzaal
+\033[1;96mInstagram \033[1;93m: \033[1;92mm.afzaal.7097
+\033[1;96mFacebook  \033[1;93m: \033[1;92m 
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Therana/zero
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
