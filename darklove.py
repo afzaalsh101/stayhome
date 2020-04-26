@@ -56,12 +56,12 @@ logo = """ -----------------------------•◈•
 |__~~~\ •◈•-----█-------⑧-------█------•◈•
 |__~~~\ •◈•-----█-------⑥-------█------•◈•
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92m King Afzaal
-\033[1;96mInstagram \033[1;93m: \033[1;Flowm.afzaal.7097
+\033[1;93mAuthor  \033[1;93m: \033[1;92m. mr afzaal
+\033[1;93mInstagram \033[1;93m: \033[1; m.afzaal.709
 
-\033[1;96mFacebook  \033[1;93m: \033[1; saffi.uddin.12
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Theafzaalsh101/
-\033[1;91m======================================="""
+\033[1;94mFacebook  \033[1;93m: \033[1; saffi.uddin.12
+\033[1;95mGithub \033[1;93m: \033[1;92mhttps://github.com/Theafzaalsh101/
+\033[1;97m======================================="""
 
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -81,30 +81,30 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mKing Afzaal
-\033[1;96mInstagram \033[1;93m: \033[1;92mm.afzaal.7097
+\033[1;96mAuthor  \033[1;93m: \033[1;92m King Afzaal
+\033[1;96mInstagram \033[1;93m: \033[1;92m m.afzaal.7097
 \033[1;96mFacebook  \033[1;93m: \033[1;92m saffi.uddin292
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Therana/zero
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/TheAfzaal/afzaal
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "ASLOVE"
-CorrectPassword = "LOVESH"
+CorrectUsername = "corona"
+CorrectPassword = "virus"
 
 loop = 'true'
 while (loop == 'true'):
-    username = raw_input("\033[1;96m[☆] \x1b[1;93mUsername Of Tool \x1b[1;96m>>>> ")
+    username = raw_input("\033[1;96m[☆] \x1b[1;93mUsername Of Tool \x1b[1;95m>>>> ")
     if (username == CorrectUsername):
-    	password = raw_input("\033[1;96m[☆] \x1b[1;93mPassword Of Tool \x1b[1;96m>>>> ")
+    	password = raw_input("\033[1;96m[☆] \x1b[1;93mPassword Of Tool \x1b[1;95m>>>> ")
         if (password == CorrectPassword):
             print "Logged in successfully as " + username
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.Youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
+            os.system('xdg-open https://www.Youtube.com/channel/UC4vYy8jgjowge1Tbi4dTIrw
     else:
         print "Wrong Username"
-        os.system('xdg-open https://www.Youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
+        os.system('xdg-open https://www.Youtube.com/UC4vYy8jgjowge1Tbi4dTIrw
 
 def login():
 	os.system('clear')
@@ -115,7 +115,7 @@ def login():
 		os.system('clear')
 		print logo
 		print 42*"\033[1;96m="
-		print('\033[1;96m[☆] \x1b[1;93mLOGIN WITH FACEBOOK \x1b[1;96m[☆]' )
+		print('\033[1;96m[☆] \x1b[1;92mLOGIN WITH FACEBOOK \x1b[1;96m[☆]' )
 		id = raw_input('\033[1;96m[+] \x1b[1;93mID/Email \x1b[1;91m: \x1b[1;92m')
 		pwd = raw_input('\033[1;96m[+] \x1b[1;93mPassword \x1b[1;91m: \x1b[1;92m')
 		tik()
